@@ -143,8 +143,6 @@ This repository is based on the following research papers:
 ## ❓ Troubleshooting
 - **`ValueError: Centroid has not been initialized`**:
   - Ensure the batch contains bonafide samples.
-- **Negative Loss**:
-  - This is expected due to cosine similarity range `-1` to `1`.
 
 ---
 
