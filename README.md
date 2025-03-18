@@ -151,3 +151,6 @@ For issues or questions, feel free to open an issue in this repository.
 
 ## 📢 Acknowledgments
 - [github AMSoftmax1](https://github.com/tomastokar/Additive-Margin-Softmax) , [github AMSoftmax2](https://github.com/Leethony/Additive-Margin-Softmax-Loss-Pytorch).
+
+
+## For more losses implementations, check out in [PyTorch Metric Learning](https://kevinmusgrave.github.io/pytorch-metric-learning/).
