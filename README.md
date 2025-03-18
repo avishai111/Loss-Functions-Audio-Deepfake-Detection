@@ -4,10 +4,10 @@
 This repository provides implementations of various loss functions designed for **Audio Deepfake Detection**, focusing on robust feature learning and classification. The methods include:
 
 - **AOCloss (Adaptive Centroid Shift Loss)**: A one-class learning framework that adapts a centroid for bonafide samples while distancing spoof samples.
-- **OCSoftmax (One-Class Softmax)**: A loss function that classifies bonafide and spoofed audio based on feature distances.
+- **OCSoftmax (One-Class Softmax)**: A loss function that classifies bonafide and spoofed audio based on one-class learning for bonafide samples.
 - **AMSoftmax (Additive Margin Softmax Loss)**: A margin-based loss function to enhance class separability.
 
-Each loss function is implemented in PyTorch and can be seamlessly integrated into deep learning models for deepfake detection.
+Each loss function is implemented in PyTorch and can be seamlessly integrated into deep learning models for audio deepfake detection.
 
 ---
 
@@ -44,7 +44,7 @@ The centroid is automatically updated during the forward pass.
 ### 2️⃣ **OCSoftmax (One-Class Softmax Loss)**
 
 #### 📌 Description
-OCSoftmax is designed for **one-class classification**, where bonafide and spoof samples are separated based on cosine similarity.
+OCSoftmax is designed for **one-class classification**, based on one-class learning for bonafide samples.
 
 #### 🏗️ **Initialization**
 ```python
