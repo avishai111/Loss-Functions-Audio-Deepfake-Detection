@@ -100,7 +100,7 @@ loss = criterion(embeddings, labels)
 ---
 
 ## 📄 Citation
-This repository is based on the following research papers:
+This repository is based on the following implementions and research papers:
 ```
 @inproceedings{kim24b_interspeech,
   title     = {One-class learning with adaptive centroid shift for audio deepfake detection},
