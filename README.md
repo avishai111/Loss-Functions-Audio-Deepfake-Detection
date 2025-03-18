@@ -150,7 +150,7 @@ This repository is based on the following implementations and research papers:
 For issues or questions, feel free to open an issue in this repository.
 
 ## 📢 Acknowledgments
-- [github AMSoftmax1](https://github.com/tomastokar/Additive-Margin-Softmax) , [github AMSoftmax2](https://github.com/Leethony/Additive-Margin-Softmax-Loss-Pytorch).
+- [github AMSoftmax1](https://github.com/tomastokar/Additive-Margin-Softmax) , [github AMSoftmax2](https://github.com/Leethony/Additive-Margin-Softmax-Loss-Pytorch) , [github OCSloss]([https://github.com/Leethony/Additive-Margin-Softmax-Loss-Pytorch].(https://github.com/yzyouzhang/AIR-ASVspoof)) 
 
 
 ### For more loss functions implementations, check out in [PyTorch Metric Learning](https://kevinmusgrave.github.io/pytorch-metric-learning/).
