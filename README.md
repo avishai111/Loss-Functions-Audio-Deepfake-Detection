@@ -149,3 +149,5 @@ This repository is based on the following research papers:
 ## 🙋‍♂️ Support
 For issues or questions, feel free to open an issue in this repository.
 
+## 📢 Acknowledgments
+- [github AMSoftmax1](https://github.com/tomastokar/Additive-Margin-Softmax) , [github AMSoftmax2](https://github.com/Leethony/Additive-Margin-Softmax-Loss-Pytorch).
