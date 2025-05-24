@@ -1,5 +1,7 @@
 # Audio Deepfake Detection Loss Functions
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15505468.svg)](https://doi.org/10.5281/zenodo.15505468)
+
 ## 📖 Overview
 This repository provides implementations of various loss functions designed for **Audio Deepfake Detection**, focusing on robust feature learning and classification. The methods include:
 
